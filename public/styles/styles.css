@@ -1,0 +1,31 @@
+body {
+    background-image: url(/images/dragonBall.jpg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    opacity: 0,5;
+    margin: 0;
+    background-color: rgb(241, 229, 229);
+    margin: 0;
+}
+
+a {
+    padding: 0.5rem 1rem;
+    background-color: rgb(89, 6, 255);
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+    text-decoration: none;
+    margin-bottom: 1rem;
+    list-style: none;
+    text-decoration: none;
+}
+
+#back { padding: 0.5rem 1rem;
+    background-color: rgb(89, 6, 255);
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+    text-decoration: none;
+    margin-bottom: 1rem;
+    list-style: none;
+    text-decoration: none;}

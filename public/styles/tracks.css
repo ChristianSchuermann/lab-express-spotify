@@ -1,0 +1,25 @@
+body {
+    background-image: url(/images/shenLong.jpg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    opacity: 0,5;
+    margin: 0;
+
+}
+
+#tracks-page {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+thead {
+    background-color: rgb(230, 178, 6);
+    color: white;
+    height: 4rem;
+}
+
+td {
+    height: 4rem;
+}
